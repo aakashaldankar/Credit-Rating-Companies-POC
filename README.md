@@ -175,8 +175,6 @@ Company Credit Rating POC/
 ├── company_rating_data.csv    # Training dataset
 ├── ccr_venv/                  # Virtual environment (not in git)
 ├── README.md                  # This file
-├── CLAUDE.md                  # AI assistant guidance
-└── *.png                      # Generated visualizations
 ```
 
 ## How It Works
