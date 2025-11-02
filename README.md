@@ -33,7 +33,7 @@ A machine learning-powered web application that predicts corporate credit rating
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/aakashaldankar/Credit-Rating-Companies-POC.git
    cd "Company Credit Rating POC"
    ```
 
@@ -233,7 +233,6 @@ This project is a proof-of-concept for educational and research purposes.
 
 - Built with [Gradio](https://gradio.app/) for the web interface
 - Machine learning powered by [scikit-learn](https://scikit-learn.org/)
-- Credit rating methodology inspired by S&P Global and Moody's rating systems
 
 ## Contact & Support
 
