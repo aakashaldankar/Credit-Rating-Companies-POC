@@ -300,7 +300,6 @@ def evaluate_model(model, X_train, X_test, y_train, y_test, label_encoder):
     print("\n" + "="*80)
     print("STEP 9: MODEL EVALUATION")
     print("="*80)
-
     # Predictions
     y_train_pred = model.predict(X_train)
     y_test_pred = model.predict(X_test)
